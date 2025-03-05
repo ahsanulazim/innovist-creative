@@ -3,96 +3,96 @@
       "Visual Identity": [
         {
           "name": "Logo Design",
-          "image": "./images/visual identity (1).jpg",
+          "image": "innovist-creative/images/visual identity (1).jpg",
           "postLink": "https://example.com/logo-design-post"
         },
         {
           "name": "Brand Guidelines",
-          "image": "./images/visual identity (2).jpg",
+          "image": "innovist-creative/images/visual identity (2).jpg",
           "postLink": "https://example.com/brand-guidelines-post"
         },
         {
           "name": "Business Cards",
-          "image": "./images/visual identity (3).jpg",
+          "image": "innovist-creative/images/visual identity (3).jpg",
           "postLink": "https://example.com/business-cards-post"
         },
         {
           "name": "Letterhead Design",
-          "image": "./images/visual identity (4).jpg",
+          "image": "innovist-creative/images/visual identity (4).jpg",
           "postLink": "https://example.com/letterhead-post"
         },
         {
           "name": "Packaging Design",
-          "image": "./images/visual identity (5).jpg",
+          "image": "innovist-creative/images/visual identity (5).jpg",
           "postLink": "https://example.com/packaging-post"
         },
         {
           "name": "Presentation Templates",
-          "image": "./images/visual identity (6).jpg",
+          "image": "innovist-creative/images/visual identity (6).jpg",
           "postLink": "https://example.com/presentation-post"
         }
       ],
       "Social Media": [
         {
           "name": "Instagram Posts",
-          "image": "./images/Social Media (1).jpg",
+          "image": "innovist-creative/images/Social Media (1).jpg",
           "postLink": "https://example.com/instagram-posts-post"
         },
         {
           "name": "Facebook Banners",
-          "image": "./images/Social Media (2).jpg",
+          "image": "innovist-creative/images/Social Media (2).jpg",
           "postLink": "https://example.com/facebook-banners-post"
         },
         {
           "name": "Story Templates",
-          "image": "./images/Social Media (3).jpg",
+          "image": "innovist-creative/images/Social Media (3).jpg",
           "postLink": "https://example.com/story-templates-post"
         },
         {
           "name": "YouTube Thumbnails",
-          "image": "./images/Social Media (4).jpg",
+          "image": "innovist-creative/images/Social Media (4).jpg",
           "postLink": "https://example.com/youtube-thumbnails-post"
         },
         {
           "name": "LinkedIn Graphics",
-          "image": "./images/Social Media (5).jpg",
+          "image": "innovist-creative/images/Social Media (5).jpg",
           "postLink": "https://example.com/linkedin-graphics-post"
         },
         {
           "name": "TikTok Cover Images",
-          "image": "./images/Social Media (6).jpg",
+          "image": "innovist-creative/images/Social Media (6).jpg",
           "postLink": "https://example.com/tiktok-covers-post"
         }
       ],
       "Website": [
         {
           "name": "Landing Page Design",
-          "image": "./images/Website (1).jpg",
+          "image": "innovist-creative/images/Website (1).jpg",
           "postLink": "https://example.com/landing-page-post"
         },
         {
           "name": "E-commerce Store",
-          "image": "./images/Website (2).jpg",
+          "image": "innovist-creative/images/Website (2).jpg",
           "postLink": "https://example.com/ecommerce-store-post"
         },
         {
           "name": "Portfolio Websites",
-          "image": "./images/Website (3).jpg",
+          "image": "innovist-creative/images/Website (3).jpg",
           "postLink": "https://example.com/portfolio-post"
         },
         {
           "name": "Blog Templates",
-          "image": "./images/Website (4).jpg",
+          "image": "innovist-creative/images/Website (4).jpg",
           "postLink": "https://example.com/blog-templates-post"
         },
         {
           "name": "Contact Page Designs",
-          "image": "./images/Website (5).jpg",
+          "image": "innovist-creative/images/Website (5).jpg",
           "postLink": "https://example.com/contact-page-post"
         },
         {
           "name": "Admin Dashboards",
-          "image": "./images/Website (6).jpg",
+          "image": "innovist-creative/images/Website (6).jpg",
           "postLink": "https://example.com/admin-dashboard-post"
         }
       ],
