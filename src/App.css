@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+    --color-main: #FFA800;
+    --font-interTight: "Inter Tight", sans-serif;
+}
