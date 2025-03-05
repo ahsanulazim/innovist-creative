@@ -1,5 +1,5 @@
 import { FaWhatsapp } from "react-icons/fa";
-import people from "../assets/images/people.webp";
+import people from "/images/people.webp";
 
 const Contact = () => {
     return (
