@@ -12,7 +12,7 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route index element={<Home />} />
+        <Route path="innovist-creative" element={<Home />} />
         <Route path="projects" element={<Projects />} />
       </Routes>
       <Footer />

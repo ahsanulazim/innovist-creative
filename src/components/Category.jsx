@@ -10,7 +10,7 @@ const Category = () => {
     const [error, setError] = useState(null);
 
     useEffect(() => {
-        fetch('/categories.json')
+        fetch(`${import.meta.env.BASE_URL}categories.json`)
             .then((response) => {
                 if (!response.ok) {
                     throw new Error('Failed to fetch categories');
