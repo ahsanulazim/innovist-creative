@@ -6,7 +6,7 @@ const Footer = () => {
     const nav = <>
         <NavLink to="/" className="link link-hover" >Home</NavLink>
         <NavLink to="/projects" className="link link-hover">Projects</NavLink>
-        <NavLink to="/getintouch" className="link link-hover">Get in touch</NavLink>
+        <a className="link link-hover">Get in touch</a>
     </>
 
     return (
@@ -53,7 +53,7 @@ const Footer = () => {
                 </div>
             </nav>
             <aside>
-                <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+                <p>Copyright © {new Date().getFullYear()} - All right reserved by Innovist Creative</p>
             </aside>
         </footer>
     );

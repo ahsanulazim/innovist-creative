@@ -1,10 +1,13 @@
+import Category from "./Category";
+import Contact from "./Contact";
 
 
 const Projects = () => {
     return (
-        <div>
-            Projects
-        </div>
+        <>
+            <Category />
+            <Contact />
+        </>
     );
 };
 

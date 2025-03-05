@@ -1,11 +1,16 @@
+import Category from "./Category";
+import Contact from "./Contact";
+import Stat from "./Stat";
+import Card from "./Card";
 
 
 const Home = () => {
     return (
-        <div>
-            home page
-
-        </div>
+        <>
+            <Category />
+            <Stat />
+            <Contact />
+        </>
     );
 };
 
