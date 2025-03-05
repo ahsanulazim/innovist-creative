@@ -1,4 +1,4 @@
-import brand from "../assets/images/brand-design.webp"
+import brand from "/images/brand-design.webp"
 import Experience from "./Experience";
 
 const Stat = () => {
