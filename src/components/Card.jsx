@@ -8,7 +8,7 @@ const Card = ({ item }) => {
     useEffect(() => {
         const interval = setInterval(() => {
             setLoading(false);
-        }, 2000); // 3 second por component show korbe
+        }, 2000);
 
         return () => clearInterval(interval); // Clean up interval
     }, []);
