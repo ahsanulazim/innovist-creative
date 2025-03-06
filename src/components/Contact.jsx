@@ -4,8 +4,8 @@ import people from "/images/people.webp";
 const Contact = () => {
     return (
         <div className=" max-w-[1600px] mx-auto my-20 px-5">
-            <div className="hero bg-base-200 rounded-2xl py-20" data-theme="light">
-                <div className="hero-content flex-col lg:flex-row gap-20">
+            <div className="hero bg-base-200 rounded-2xl py-5 lg:py-20" data-theme="light">
+                <div className="hero-content flex-col lg:flex-row gap-10 lg:gap-20">
                     <img
                         src={people}
                         className="max-w-sm" alt="people" draggable="false" />

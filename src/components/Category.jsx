@@ -47,7 +47,7 @@ const Category = () => {
     return (
         <div className="px-4 py-10 max-w-[1600px] mx-auto">
             <h1 className='text-4xl text-center font-bold mb-10'>Studio Projects</h1>
-            <div className="flex gap-4 mb-10 justify-center overflow-x-scroll scrollbar">
+            <div className="flex gap-4 mb-10 justify-start sm:justify-center overflow-x-scroll scrollbar">
                 {categories.map((category) => (
                     <button
                         key={category}

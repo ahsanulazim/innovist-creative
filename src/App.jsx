@@ -13,7 +13,7 @@ function App() {
       <Header />
       <Routes>
         <Route path="innovist-creative" element={<Home />} />
-        <Route path="projects" element={<Projects />} />
+        <Route path="innovist-creative/projects" element={<Projects />} />
       </Routes>
       <Footer />
     </>

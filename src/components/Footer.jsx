@@ -4,8 +4,8 @@ import logo from "/innovist-creative-logo.svg";
 const Footer = () => {
 
     const nav = <>
-        <NavLink to="/innovist-creative" className="link link-hover" >Home</NavLink>
-        <NavLink to="/projects" className="link link-hover">Projects</NavLink>
+        <NavLink to="/innovist-creative/" className="link link-hover" >Home</NavLink>
+        <NavLink to="/innovist-creative/projects" className="link link-hover">Projects</NavLink>
         <a className="link link-hover">Get in touch</a>
     </>
 

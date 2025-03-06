@@ -5,10 +5,8 @@ import logo from "/innovist-creative-logo.svg";
 const Header = () => {
 
     const nav = <>
-        <li><NavLink to="/innovist-creative" className={({ isActive }) =>
-            isActive ? "text-main" : ""}>Home</NavLink></li>
-        <li><NavLink to="/projects" className={({ isActive }) =>
-            isActive ? "text-main" : ""}>Projects</NavLink></li>
+        <li><NavLink to="/innovist-creative/" >Home</NavLink></li>
+        <li><NavLink to="/innovist-creative/projects" >Projects</NavLink></li>
         <li><a>Get in touch</a></li>
     </>
 
