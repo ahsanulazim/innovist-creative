@@ -24,7 +24,7 @@ const Header = () => {
                             {nav}
                         </ul>
                     </div>
-                    <Link to="/" ><img src={logo} alt="Innovate Creative Logo" className="w-full max-h-10" /></Link>
+                    <Link to="/innovist-creative/" ><img src={logo} alt="Innovate Creative Logo" className="w-full max-h-10" /></Link>
                 </div>
                 <nav className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1 sm:text-lg">
